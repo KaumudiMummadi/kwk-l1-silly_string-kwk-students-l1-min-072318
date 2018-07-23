@@ -34,7 +34,7 @@ puts "There are #{letter_count} in #{big_word}"
 
 bigger_word = big_word "wowmomsupercalifragilisticexpialidocious"
 
-new_letter_count = "40"
+new_letter_count = "40 letters"
 
 puts "There are now #{new_letter_count} in #{bigger_word}"
 
